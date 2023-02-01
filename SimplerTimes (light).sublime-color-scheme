@@ -1,0 +1,39 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+// Recommended font: NSimSun
+{
+    "name": "SimplerTimes (Light)",
+    "author": "Franco Montenegro",
+    "variables":
+    {
+        "background": "#F5EFE6",
+        "foreground": "#142850",
+        "altground" : "#8785A2",
+        "comment"   : "#1FAB89",
+        "error"     : "#B83B5E",
+    },
+    "globals":
+    {
+        "foreground": "var(foreground)",
+        "background": "var(background)",
+        "caret": "var(foreground)",
+        "invisibles": "var(altground)",
+        "line_highlight": "color(var(altground) alpha(0.15))",
+        "selection": "var(comment)",
+        "selection_foreground": "var(foreground)",
+        "misspelling": "var(error)",
+        "find_highlight": "var(comment)",
+        "find_highlight_foreground": "var(foreground)",
+        "gutter": "var(background)",
+        "gutter_foreground": "var(altground)",
+        "shadow": "var(altground)",
+        "shadow_width": "1",
+        "rulers": "var(error)",
+    },
+    "rules": [
+        {
+            "name": "Comments",
+            "scope": "comment, punctuation.definition.comment",
+            "foreground": "var(comment)",
+        },
+    ],
+}
