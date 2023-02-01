@@ -22,6 +22,12 @@ colorscheme
     the alternative color is used for less important things, 
     such as, line number.
 
+demo
+    check https://github.com/Ruk33/colorscheme/blob/master/light.jpg and 
+    https://github.com/Ruk33/colorscheme/blob/master/dark.jpg
+    
+    the font used is called NSimSun.
+
 how to install?
     copy both files in %APPDATA%/Sublime Text/Packages/User.
     after that, both color scheme themes should appear as 
