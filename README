@@ -1,0 +1,38 @@
+colorscheme
+    very basic color scheme for sublime text. although, it 
+    shouldn't be too hard to make a version for other programs.
+    the colors are pretty much five:
+    
+    light:
+        - foreground : #142850
+        - background : #F5EFE6
+        - alternative: #8785A2
+        - comment    : #1FAB89
+        - error      : #B83B5E
+        
+    the dark variant only swaps background with foreground.
+    
+    dark:
+        - foreground : #F5EFE6
+        - background : #142850
+        - alternative: #8785A2
+        - comment    : #1FAB89
+        - error      : #B83B5E
+    
+    the alternative color is used for less important things, 
+    such as, line number.
+
+how to install?
+    copy both files in %APPDATA%/Sublime Text/Packages/User.
+    after that, both color scheme themes should appear as 
+    "SimplerTimes (light)" and "SimplerTimes (dark)"
+
+why no colors?
+    you know, after trying it out, i found it's way less
+    distracting to have fewer colors. also, i have noticed 
+    that many color schemes don't highlight comments as
+    much as it should. it's a comment, something is important,
+    that should be highlighted as much as possible.
+
+license
+    mit?
