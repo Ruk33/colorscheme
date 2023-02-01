@@ -26,7 +26,7 @@ demo
     check https://github.com/Ruk33/colorscheme/blob/master/light.jpg and 
     https://github.com/Ruk33/colorscheme/blob/master/dark.jpg
     
-    the font used is called NSimSun.
+    the font used is called NSimSun and the ui theme is Adaptive.
 
 how to install?
     copy both files in %APPDATA%/Sublime Text/Packages/User.
